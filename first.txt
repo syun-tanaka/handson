@@ -2,8 +2,5 @@ my first doc
 hoge
 hoge1
 hoge2
-<<<<<<< HEAD
-hogehogehoge
-=======
 hogehoge
->>>>>>> 04469c2263c9ff7981a692272d5ee8e3c133d01d
+hogehogehoge
